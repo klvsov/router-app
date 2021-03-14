@@ -1,0 +1,23 @@
+.input-control {
+  width: 100%;
+}
+
+.input-control input {
+  width: 100%;
+  box-sizing: border-box;
+  background: transparent;
+  color: grey;
+  border: 1px solid grey;
+  margin-bottom: 2rem;
+  padding: 1rem 1.5rem;
+  font-size: 1.2rem;
+  outline: none;
+}
+
+.input-control input:focus {
+  border-color: green;
+}
+
+.input-invalid {
+  border-color: crimson !important;
+}

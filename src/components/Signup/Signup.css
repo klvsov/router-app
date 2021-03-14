@@ -1,0 +1,21 @@
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.controls .input-control {
+  flex-basis: 49%;
+}
+
+.link {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.link a {
+  color: rgb(107, 126, 179);
+  text-decoration: none;
+}

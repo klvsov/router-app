@@ -1,0 +1,10 @@
+.checkbox-control {
+  max-width: 80%;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.checkbox-control label {
+  margin-left: 0.5rem;
+  color: grey;
+}

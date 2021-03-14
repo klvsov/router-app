@@ -1,0 +1,49 @@
+.padlock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 50px;
+  height: 50px;
+  margin: 10px auto 0;
+  border-radius: 50%;
+  background-color: #e255a1;
+}
+
+.padlock img {
+  max-width: 70%;
+}
+
+.header {
+  text-align: center;
+  max-width: 420px;
+  width: 420px;
+}
+
+.title {
+  color: #fff;
+}
+
+form {
+  max-width: 420px;
+  width: 420px;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.links a,
+.links span {
+  color: rgb(107, 126, 179);
+  text-decoration: none;
+}
+
+footer {
+  margin-top: 3rem;
+  text-align: center;
+  color: grey;
+}
